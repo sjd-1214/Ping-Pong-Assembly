@@ -132,3 +132,9 @@ This game was developed as part of low-level programming exploration. It is a tr
 ## License
 
 This project is open-source and free to use for educational and personal purposes. Contributions and suggestions are welcome!
+
+---
+
+For those interested in learning about Assembly language, or for further assistance on any of the Assembly topics, feel free to reach out to me at **sjdgithub1214@gmail.com**. 
+
+Please note that any personalized assistance or detailed explanations will be provided as a **paid service**.
